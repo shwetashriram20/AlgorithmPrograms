@@ -1,4 +1,4 @@
-﻿namespace SortingTechniques
+﻿namespace Day16_17
 {
 
     public class Program
